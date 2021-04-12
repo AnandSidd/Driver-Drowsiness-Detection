@@ -1,5 +1,5 @@
 # Driver-Drowsiness-Detection
-# Drowsiness Detection OpenCV [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/AnandSidd/Driver-Drowsiness-Detection/blob/master/LICENSE.txt)
+# Drowsiness Detection OpenCV [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/AnandSidd/Driver-Drowsiness-Detection/blob/master/LICENSE)
 This code can detect your eyes and alert when the user is drowsy.
 
 ## Applications
