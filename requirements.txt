@@ -1,0 +1,6 @@
+pygame==2.0.1
+opencv_contrib_python==4.5.1.48
+playsound==1.2.2
+dlib==19.22.0
+scipy==1.6.2
+imutils==0.5.4
